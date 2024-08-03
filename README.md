@@ -2,7 +2,7 @@
 I am alive Joshuamambo1v1 BOT 
 
   <p align="center">  
-  <a href="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
+  <a href="(https://imgur.com/a/ypcJcQD)">
     <img alt="secktor docs" height="300" src="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
     <h1 align="center"> Joshuamambo1v1 </h1>
   </a>
