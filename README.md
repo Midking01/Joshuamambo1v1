@@ -19,7 +19,7 @@ I am alive Joshuamambo1v1 BOT
 
 ---
 
-<p align="center"><img src="https://profile-counter.glitch.me/{prabathLK}/count.svg" alt="prabathLK :: Visitor's Count" /></p>
+<p align="center"><img src="https://imgur.com/a/ypcJcQD" alt="MidKing01:: Visitor's Count" /></p>
 
   
  ## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/MidKing01/Joshuamambo1v1/)***
